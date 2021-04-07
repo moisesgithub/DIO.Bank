@@ -1,5 +1,5 @@
 # DIO.Bank
-## Criando uma aplicação de transferências bancárias com .NET
+## Criando uma aplicação de transferências bancárias com .NET C#
 ### Descrição
 
 - Aprendendo a criar um algoritmo de transferência bancária simples para exercer o pensamento orientado a objetos
